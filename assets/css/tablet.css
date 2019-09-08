@@ -1,0 +1,156 @@
+/* Base Styles */
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Header */
+header {
+  width: 100%;
+}
+
+header h1 {
+  color: #891100;
+  font-family: 'Times New Roman';
+  font-size: 65px;
+  border: 2px solid #891100;
+  padding: 25px;
+  text-align: center;
+}
+
+header nav {
+  padding: 20px 0;
+  background-color: #e4be82;
+}
+
+header nav ul li a {
+  color: #891100;
+  font-size: 20px;
+  font-family: 'Times New Roman';
+}
+
+header nav ul li a:hover {
+  color: #c70a4c;
+}
+
+/* Birthday */
+#birthday img{
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+/* History */
+#history {
+  width: 100%;
+  padding: 15px;
+}
+
+#history h2 {
+  font-family: 'Times New Roman';
+  color: #891100;
+  font-size: 55px;
+  text-align: center;
+}
+
+#history p {
+  padding-top: 15px;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+/* Current */
+#current {
+  width: 100%;
+  padding: 25px 0;
+}
+
+#current h2 {
+  font-family: 'Times New Roman';
+  color: #891100;
+  font-size: 55px;
+}
+
+#current h3 {
+  font-size: 45px;
+  padding-top: 15px;
+}
+
+#current p {
+  font-size: 20px;
+  line-height: 27px;
+}
+
+#current button {
+  margin-bottom: 25px;
+}
+
+/* Misc */
+#misc {
+  width: 100%;
+  padding: 25px 0;
+}
+
+#misc h2 {
+  font-family: 'Times New Roman';
+  color: #891100;
+  font-size: 55px;
+}
+
+#misc h3 {
+  font-size: 45px;
+  padding-top: 15px;
+}
+
+#misc p {
+  font-size: 20px;
+  line-height: 27px;
+}
+
+#misc button {
+  margin-bottom: 25px;
+}
+
+/* Directory */
+#directory {
+  border: 2px solid #891100;
+  width: 100%;
+  padding: 20px 0;
+}
+
+#directory nav ul li {
+  list-style-type: none;
+}
+
+#directory nav ul li a {
+  font-size: 18px;
+  color: #891100;
+}
+
+/* Footer Pages */
+footer {
+  width: 100%;
+  background-color: #e4be82;
+}
+
+footer p {
+  font-size: 18px;
+  font-family: "Times New Roman", serif;
+  color: #891100;
+}
+
+footer nav ul li {
+  display: inline-block;
+}
+
+footer nav ul li a {
+  padding-left: 20px;
+  color: #891100;
+}
+
+footer nav ul li a:hover {
+  color: #c70a4c;
+}
