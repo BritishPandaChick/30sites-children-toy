@@ -72,7 +72,6 @@ header nav ul li a:hover {
   font-family: 'Times New Roman';
   color: #891100;
   font-size: 45px;
-  text-align: center;
 }
 
 #current h3 {
@@ -99,7 +98,6 @@ header nav ul li a:hover {
   font-family: 'Times New Roman';
   color: #891100;
   font-size: 45px;
-  text-align: center;
 }
 
 #misc h3 {
@@ -129,4 +127,29 @@ header nav ul li a:hover {
 #directory nav ul li a {
   font-size: 18px;
   color: #891100;
+}
+
+/* Footer Pages */
+footer {
+  width: 100%;
+  background-color: #e4be82;
+}
+
+footer p {
+  font-size: 18px;
+  font-family: "Times New Roman", serif;
+  color: #891100;
+}
+
+footer nav ul li {
+  display: inline-block;
+}
+
+footer nav ul li a {
+  padding-left: 20px;
+  color: #891100;
+}
+
+footer nav ul li a:hover {
+  color: #c70a4c;
 }
