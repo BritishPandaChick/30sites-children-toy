@@ -1,12 +1,15 @@
-# 30 Days, 30 Sites Children's Toy
+# 30 Days, 30 Sites Day 9: Children's Toy
+American Girl web page
 
-30 Days, 30 Sites Challenge day 9 project for children's toy or game. Made with HTML, CSS and Bootstrap.
+## Tech Stack
+- HTML
+- CSS
+- Bootstrap
 
-## Instructions 
-Clone the repo or download zip file. Open index.html in browser to see website.
-
-## Contributions
-I will not be accepting any pull requests.
+## Instructions
+1. Clone this repo or download zip file. 
+2. Open index.html file in your browser.
 
 ## Acknowledgements
-* Bootstrap
+* 30 Days, 30 Sites
+* Font Awesome
