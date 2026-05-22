@@ -1,4 +1,4 @@
-# 30 Days, 30 Sites Day 9
+# 30 Days, 30 Sites Day 9: Children's Toy
 American Girl web page
 
 ## Tech Stack
